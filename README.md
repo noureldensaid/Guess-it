@@ -1,6 +1,6 @@
 # Application Architecture - The UI Layer - Guess It!
 
-# Using MVVM $ LiveData - Data Binding - Navigation Component - Fragments
+# Using MVVM & LiveData - Data Binding - Navigation Component - Fragments
 
 ## Guess It!
 
